@@ -15,6 +15,8 @@ Machine learning modeling
 Automated outputs saved as clear Excel reports + plotted images
 
 📂 Project Structure
+
+```
 Employee Attrition Prediction System/
 │
 ├── dataset/
@@ -43,6 +45,7 @@ Employee Attrition Prediction System/
 │
 ├── README.md
 └── requirements.txt
+```
 
 🚀 Project Overview
 📊 Objective
